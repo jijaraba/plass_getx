@@ -1,0 +1,20 @@
+{
+  "common": {
+    "app_name": "Rick and Morty",
+    "welcome": "Bienvenido \na Rick and Morty",
+    "welcome_content": "Prueba realizada para la empresa Plass SASA.",
+    "genericError": "Uh-oh!",
+    "genericErrorSubtitle": "Pareces perdido en tu viaje, \nintente de nuevo",
+    "lastKnowLocation": "Last know location",
+    "firstSeenIn": "First seen in",
+    "information": "Información",
+    "gender": "Género",
+    "origin": "Origen",
+    "type": "Tipo",
+    "episodes": "Episodes",
+    "characterInteresting": "Personajes interesantes",
+    "showFavorites": "Mostrar favoritos",
+    "searchCharacter": "Buscar personaje",
+    "removeFilters": "Eliminar filtros"
+  }
+}

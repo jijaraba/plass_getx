@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "779246433789",
+    "project_id": "plass-dev",
+    "storage_bucket": "plass-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779246433789:android:14c7f83f76f91fe29d5594",
+        "android_client_info": {
+          "package_name": "com.plassdev.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779246433789-8r1f6begbhokt0p4avc0s36ipgqe7bn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPQF-T3mYdkomMr218pnSRE9QLMMMw_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779246433789-8r1f6begbhokt0p4avc0s36ipgqe7bn4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779246433789-jtnvvo3ll5nt2b3d1dh6cj6ep5vok78m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plassdev.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
